@@ -1,7 +1,7 @@
 # GmailExtractor4sourceEmailID
 How to Download:
-1. CLick on the green Code button
-2. CLick download zip file
+1. Click on the green Code button
+2. Click download zip file
 3. Click on gmail_extractor_app.html in your files
    
 How Your Team Can Use It:
